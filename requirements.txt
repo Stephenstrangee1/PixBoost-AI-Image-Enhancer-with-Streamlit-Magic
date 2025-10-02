@@ -1,0 +1,9 @@
+streamlit==1.29.0
+torch==2.1.0
+torchvision==0.16.0
+diffusers==0.24.0
+transformers==4.36.0
+Pillow==10.0.1
+numpy==1.24.3
+accelerate==0.24.1  # For model loading
+huggingface-hub==0.19.4
