@@ -1,6 +1,6 @@
 # Streamlit Image Enhancer
 
-AI Chatbot for UGC NET/CSIR Prep: Instant exam tips, syllabus breakdowns, and enrollment guidance from Professor Academy. 🚀
+AI Chatbot for UGC NET/CSIR Prep: Instant exam tips, syllabus breakdowns, and enrollment guidance from Professor Academy. 
 
 **Bulletproof Image Enhancer** - Professional tool with AI (Stable Diffusion) fallback to PIL for reliable enhancement. Handles single/bulk images, upscaling, and dramatic effects.
 
